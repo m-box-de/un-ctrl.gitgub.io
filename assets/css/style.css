@@ -1,0 +1,25 @@
+---
+---
+---
+body { 
+  background-color: #111111;
+}
+@import 'hitchens-theme';
+body { 
+  background-color: #000000;
+}
+
+body {
+ background-image: none;
+ background-color: #cccccc;
+  background-image: none;
+}
+
+
+header {
+  background-color:rgba(255,255,255,1);
+  border-bottom:1px dashed #000000;
+}
+
+
+jekyll-theme-hacker
