@@ -10,7 +10,7 @@ body
   $background-color: #111111
   $background-image: none
 
-@import 'hitchens-theme';
+@import "{{ site.theme }}";
 
 
 
